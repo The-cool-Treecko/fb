@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+#page{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+#family-picture{
+    width: 40%;
+}
